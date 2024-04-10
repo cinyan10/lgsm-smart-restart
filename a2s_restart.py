@@ -11,10 +11,8 @@ from rcon.source import rcon
 
 IP_ADDRESS = '填写你的服务器IP'
 
-# LGSM 路径, CSGO服务器的话不需要动
+# LGSM 路径, CSGO服务器的话一般不需要动, 除非你改了用户名或者其他的
 LGSM_PATH = '/home/csgoserver/lgsm/config-lgsm/csgoserver/'
-
-# 设置为 True 可以显示在线玩家名
 
 
 logger = logging.getLogger(__name__)
