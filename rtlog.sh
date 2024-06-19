@@ -1,6 +1,6 @@
 #!/bin/bash
 
-python3 /path/to/your/1.py > /path/to/your/text.txt
+python3 /home/csgo/a2s_restart.py > /home/csgo/log/server_reboot/text.tx
 
 current_date_time=$(date '+%Y-%m-%d-%H-%M-%S')
 
